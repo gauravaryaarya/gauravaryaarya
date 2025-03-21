@@ -33,13 +33,6 @@
 
 ---
 
-## 🎯 My Goals
-✔️ Build an **attractive physique** 💪  
-✔️ **Top my college** 🏅 *(Already #1!)*  
-✔️ **Crack Google** and land my dream job 💻  
-
----
-
 ## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=gauravarya&show_icons=true&theme=radical" alt="Gaurav Arya's GitHub stats" />

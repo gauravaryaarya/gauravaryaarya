@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Gaurav Arya 🚀</h1>
+<h1 align="center">Gaurav Arya</h1>
 <h3 align="center">CSE | Full-Stack Dev | DSA Enthusiast | Aspiring Googler</h3>
 
 <p align="center">

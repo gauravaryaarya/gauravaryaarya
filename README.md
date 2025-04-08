@@ -26,19 +26,8 @@
 
 ## 🏆 Achievements & Leadership
 - 🏅 **Rank 1 Holder** in **Entire B.Tech** at **VIPS**  
-- 🎭 **Gold Medalist** in **Nukkad Natak** (Drama & Public Speaking Enthusiast)  
 - 🎤 **President** of **Career Development Centre & Placement Cell @ VIPS**  
-- 🎬 **Short film actor** & featured in **DTU productions**  
 - 🎪 **Organized Major Events**: **Riwayat, Abhivyakti & NASSCOM - The Global Confluence**  
-
----
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gauravarya&show_icons=true&theme=radical" alt="Gaurav Arya's GitHub stats" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gauravarya&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 

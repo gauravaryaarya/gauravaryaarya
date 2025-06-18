@@ -1,5 +1,5 @@
 <h1 align="center">Gaurav Arya</h1>
-<h3 align="center">CSE | Full-Stack Dev | DSA Enthusiast | Aspiring Googler</h3>
+<h3 align="center">CSE | Full-Stack Dev | DSA Enthusiast </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=gauravarya&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
